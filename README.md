@@ -1,1 +1,3 @@
 # alien-risk
+
+# This repo is just for fun...
